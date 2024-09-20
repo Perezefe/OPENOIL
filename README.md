@@ -1,7 +1,8 @@
 # OPENOIL
 OIL
-stock
-coin
-token
-currency
-eletronic money 
+oilstock
+oilcoin
+oiltoken
+oilcurrency
+oileletronicmoney 
+oilmemecoin
